@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except
+!~/.config/nvim/init.vim
+!~/.config/autoload/plug.vim
+!~/.zshrc
